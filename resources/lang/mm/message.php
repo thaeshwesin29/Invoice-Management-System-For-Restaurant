@@ -1,0 +1,90 @@
+<?php
+
+return [
+    'account' => 'အကောင့်',
+    'profile' => 'ပရိုဖိုင်',
+    'login' => 'အကောင့်ဝင်ရန်',
+    'logout' => 'အကောင့်မှထွက်ရန်',
+
+    'back' => 'နောက်သို့',
+
+    'dashboard' => 'ဒက်ရှ်ဘုတ်',
+
+    'name' => 'အမည်',
+    'description' => 'ဖော်ပြချက်',
+    'email' => 'အီးမေးလ်',
+    'phone' => 'ဖုန်းနံပါတ််',
+    'image' => 'ပုံ',
+    'profile_image' => 'ပရိုဖိုင်ပုံ',
+    'nrc' => 'မှတ်ပုံတင်',
+    'address' => 'လိပ်စာ',
+    'password' => 'စာကားဝှက်',
+    'confirm_password' => 'စာကားဝှက်အတည်ပြုရန်',
+    'price' => 'စျေးနှုန်း',
+    'stock_quantity' => 'လက်ကျန်အရေအတွက်',
+    'create_at' => 'စတင်ဖန်တီးချိန်',
+    'update_at' => 'ထပ်မံပြုပြင်ချိန်',
+    'action' => 'လုပ်ဆောင်ချက်',
+
+    'cashier' => 'ငွေကိုင်သူ',
+    'cashiers' => 'ငွေကိုင်သူများ',
+    'create_cashier' => 'ငွေကိုင်သူအသစ်ထည့်ရန်',
+    'edit_cashier' => 'ငွေကိုင်သူအားပြုပြင်ရန်',
+    'cashier_detail' => 'ငွေကိုင်သူအသေးစိတ်',
+    'change_cashier_password' => 'ငွေကိုင်သူ၏ password အားပြောင်းလဲရန်',
+
+    'waiter' => 'စားပွဲထိုး',
+    'waiters' => 'စားပွဲထိုးများ',
+    'create_waiter' => 'စားပွဲထိုးအသစ်ထည့်ရန်',
+    'edit_waiter' => 'စားပွဲထိုးအားပြုပြင်ရန်',
+    'waiter_detail' => 'စားပွဲထိုးအသေးစိတ်',
+    'change_waiter_password' => 'စားပွဲထိုး၏ password အားပြောင်းလဲရန်',
+
+    'category' => 'အမျိုးအစား',
+    'categories' => 'အမျိုးအစားများ',
+    'create_category' => 'အမျိုးအစားအသစ်ထည့်ရန်',
+    'edit_category' => 'အမျိုးအစားအားပြုပြင်ရန်',
+    'all_categories' => 'အမျိုးအစားများအားလုံး',
+
+    'product' => 'ပစ္စည်း',
+    'products' => 'ပစ္စည်းများ',
+    'create_product' => 'ပစ္စည်းအသစ်ထည့်ရန်',
+    'edit_product' => 'ပစ္စည်းအားပြုပြင်ရန်',
+
+    'order' => 'အမှာစာ',
+    'orders' => 'အမှာစာများ',
+    'create_a_order' => 'အမှာစာတင်ရန်',
+    'order_detail' => 'အမှာစာအသေးစိတ်',
+    'order_items' => 'အမှာစာပစ္စည်းများ',
+    'order_number' => 'အမှာစာအမှတ်',
+    'orderable' => 'အမှာစာမှာပေးသူ',
+    'order_datetime' => 'အမှာစာမှာချိန်',
+    'status' => 'အခြေအနေ',
+    'order_statuses' => 'အမှာစာအခြေအနေများ',
+    'no.' => 'စဥ်',
+    'item_name' => 'ပစ္စည်းအမည်',
+    'item_price' => 'ပစ္စည်းစျေး',
+    'quantity' => 'အရေအတွက်',
+    'total' => 'စုစုပေါင်း',
+
+    'invoice' => 'ပြေစာ',
+    'invoices' => 'ပြေစာများ',
+    'invoice_detail' => 'ပြေစာအသေးစိတ်',
+    'invoice_number' => 'ပြေစာအမှတ်',
+    'invoiceable' => 'ပြေစာထုတ်ပေးသူ',
+    'invoice_datetime' => 'ပြေစာထုတ်ချိန်',
+
+    'total_product' => 'စုစုပေါင်းပစ္စည်း',
+    'total_quantity' => 'စုစုပေါင်းအရေအတွက်',
+    'total_price' => 'စုစုပေါင်းစျေးနှုန်း',
+    'tax' => 'အခွန် 5%',
+    'total_amount' => 'စုစုပေါင်းကုန်ကျငွေ',
+    'mmk' => 'ကျပ်',
+
+    'order_confirm' => 'အမှာစာအတည်ပြုရန်',
+    'order_cancel' => 'အမှာစာပယ်ဖျက်ရန်',
+    'generate_invoice' => 'ပြေစာထုတ်ရန်',
+    'download_invoice' => 'ပြေစာဒေါင်းလော့လုပ်ရန်',
+
+    'revenue' => 'ဝင်ငွေ'
+];

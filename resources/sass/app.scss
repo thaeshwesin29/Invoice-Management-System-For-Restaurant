@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Import all of CoreUI's CSS
+@import "@coreui/coreui/scss/coreui";
+
+@import '~@coreui/icons/css/all.min.css';
+
+@import 'sweetalert2/src/sweetalert2.scss';
+
+@import 'toastr/toastr.scss';
