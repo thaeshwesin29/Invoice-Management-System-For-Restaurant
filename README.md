@@ -52,7 +52,7 @@ HTTP Request -> Controller -> Service -> Repository -> Database
 
 ---
 
-## ⚙ Installation & Setup (Senior Level)
+## ⚙ Installation & Setup 
 
 ### 1. Clone & Install Dependencies
 
